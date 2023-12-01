@@ -1,4 +1,4 @@
-###ML COMPONENTS AND THEIR USE
+ML COMPONENTS AND THEIR USE
 
 1. Data Collection and Preparation:
 Data Collection: Gathering relevant data from various sources, ensuring its quality, and organizing it for ML tasks.
